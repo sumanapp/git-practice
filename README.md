@@ -1,4 +1,3 @@
 # git-practice
 
-
-asdfasdfasdfasdfasdfasdfasdfasdf
+This project is just fodder for a demo.
